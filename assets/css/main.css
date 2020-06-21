@@ -45,8 +45,8 @@ li span {
 }
 
 #vibe {
-	max-width:60%;
-	max-height:60%;
+	/* max-width:60%; */
+	/* max-height:60%; */
 }
 #timer {
 	align-items: center;
