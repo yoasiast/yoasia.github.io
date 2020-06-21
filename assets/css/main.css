@@ -43,6 +43,11 @@ li span {
   display: block;
   font-size: 4.5rem;
 }
+
+#timer {
+	align-items: center;
+	text-align: center;
+}
 /* GLITCH INVITATION */
 #invitation {
 	background-color: black;
